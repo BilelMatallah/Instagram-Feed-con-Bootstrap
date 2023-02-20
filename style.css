@@ -1,0 +1,9 @@
+.galeria {
+    max-height: 350px;
+    max-width: 280px;
+}
+
+.mypost {
+    min-height: 350px;
+    min-width: 290px;
+}
